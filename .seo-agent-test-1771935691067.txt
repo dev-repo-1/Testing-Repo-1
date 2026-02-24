@@ -1,0 +1,6 @@
+SEO Agent Test Commit
+
+This is a test commit to verify repository connection.
+Timestamp: 2026-02-24T12:21:31.067Z
+
+This file can be safely deleted.
